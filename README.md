@@ -1,5 +1,5 @@
 Assessment-app
-
+Stack used: Laravel and jquery
 copy .env.example .env
 * provide email credentials
     MAIL_USERNAME=sample@gmail.com
